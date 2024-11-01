@@ -1,11 +1,11 @@
 # Penetration-Testing-Lab
 Documentation and processes for setting up a penetration testing lab with Kali Linux and Metasploitable
 
-Objective
+# Objective
 
 The Penetration Testing Lab project aimed to establish a virtual environment for conducting controlled penetration tests using Kali Linux and Metasploitable. The primary focus was to identify, exploit, and analyze vulnerabilities within a simulated network environment. This hands-on experience provided practical skills in network security, vulnerability assessment, and exploitation, enhancing understanding of offensive and defensive cybersecurity techniques.
 
-Skills Learned
+# Skills Learned
 
 Penetration Testing Fundamentals: Practical understanding of penetration testing methods and tools.
 Network Scanning and Enumeration: Ability to identify open ports and running services on target machines.
@@ -13,7 +13,7 @@ Exploitation and Vulnerability Analysis: Proficiency in discovering and exploiti
 Security Recommendations: Developing strategies to improve system security based on identified vulnerabilities.
 Documentation and Reporting: Learning to document findings and communicate them clearly.
 
-Tools Used
+# Tools Used
 
 Kali Linux: As the primary penetration testing operating system.
 Metasploitable: A vulnerable virtual machine used as the target for exploitation.
@@ -22,7 +22,7 @@ Nmap: For network discovery and scanning open ports on the target.
 Telnet: To remotely access the Metasploitable machine for further investigation.
 Wireshark: For analyzing captured network traffic (optional, for deeper analysis).
 
-Steps
+# Steps
 
 1. Network Configuration
 Objective: Set up the virtual network to allow communication between the Kali Linux (attacker) and Metasploitable (victim) virtual machines.
@@ -101,7 +101,7 @@ Screenshot: ![tuln](https://github.com/user-attachments/assets/db57033e-7c3f-40a
 
   Running Services
 
-8. Documenting Findings
+# 8.Documenting Findings
 
 1. Network Configuration and Connectivity
 
